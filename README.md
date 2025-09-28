@@ -5,4 +5,4 @@
 - Arya Pratama — 122140156  
 - Dhias Yoga — 122140109  
 - Fatih Hanbali — 122140112  
-- Nashrul — 122140162  
+- Nashrullah Fathul Qoriib — 122140162  

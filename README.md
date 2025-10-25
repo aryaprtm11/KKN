@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🩺 CareUp  
 ### Aplikasi Edukasi Kesehatan Mahasiswa Berbasis Mobile  
 **CareUp** adalah aplikasi **edukasi kesehatan interaktif** yang membantu mahasiswa menjaga keseimbangan antara aktivitas akademik dan kesehatan fisik maupun mental.  
